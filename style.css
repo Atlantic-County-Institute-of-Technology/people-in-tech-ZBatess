@@ -1,1 +1,7 @@
-/* Name, Date */
+/* Zoey Bates, 12.18.24 */
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
