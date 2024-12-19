@@ -5,3 +5,42 @@ table, th, td {
     border-collapse: collapse;
   }
   
+  body{
+    background-color: #CFE8EF;
+  
+  }
+
+  th{
+    border-collapse: collapse;background-color:#A0C4E2
+    
+  }
+  
+  h1 {text-align: center;}
+  h1 {border: 1px solid black;}
+  h4 {text-align: center;}
+
+td:hover{
+  background-color: white;
+}
+
+th {
+
+  color: #213c46;
+}
+
+th, td {
+  border: 2px solid #2e4858;
+  padding: 15px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  border: 5px solid #213c46;
+}
